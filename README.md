@@ -1,2 +1,2 @@
-# forex
-This is the repository for Forex algorithmic trading
+EDHEC
+This is the repository from EDHEC
